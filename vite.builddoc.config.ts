@@ -5,7 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/sign-canvas/',
+  base: '/vue-sign-canvas/',
   plugins: [vue()],
   resolve: {
     alias: {
